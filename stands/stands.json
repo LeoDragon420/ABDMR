@@ -1,8 +1,5 @@
 {
   "Stands": {
-    "Curse": [
-      3089115061
-    ],
     "her_R": [
       "Ignore Universal Whitelist",
       237883808,
@@ -87,7 +84,8 @@
       504491725,
       1363469241,
       477169218,
-      544207325
+      544207325,
+      337210318
     ],
     "BanHammer": [
       "Ignore Universal Whitelist",
@@ -141,7 +139,8 @@
       1664162556,
       16442712,
       2970226820,
-      5737061379
+      5737061379,
+      337210318
     ],
     "Prey": [
       "Ignore Universal Whitelist",
